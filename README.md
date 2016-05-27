@@ -1,4 +1,4 @@
-#Progressive Web Apps Demo mit Caching via sw-toolbox
+#Progressive Web Apps Demo showing PouchDB and Background Sync with Service Worker
 
 ## Installation
 
